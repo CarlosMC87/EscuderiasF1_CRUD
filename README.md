@@ -1,6 +1,4 @@
-# EscuderiasF1_CRUD
-🏎️ Gestión de Escuderías de Fórmula 1 en Java 🏎️<br>
-🏷️Proyecto POO: Sistema de Gestión de Escuderías, Coches y Personal🏷️
+# 🏎️ Gestión de Escuderías de Fórmula 1 en Java 🏎️
 
 Desarrollé una aplicación en Java utilizando los principios de la Programación Orientada a Objetos (POO) para gestionar información de escuderías de Fórmula 1, sus coches y su personal (pilotos y mecánicos). Permite dar de alta, baja y visualizar la información de los empleados, así como la de las escuderías y los monoplazas. Este proyecto se enfoca en el uso de herencia y polimorfismo para una gestión eficiente de los diferentes tipos de trabajadores.
 
@@ -24,7 +22,8 @@ Mecanico.java: Clase que extiende Trabajador. Incluye un atributo para indicar s
 Coche.java: Clase para modelar los monoplazas, con atributos como potencia, velocidad máxima, color y precio. Incorpora un id autoincremental.
 Escuderia.java: Clase principal que agrupa coches y trabajadores (pilotos y mecánicos) utilizando ArrayList. Contiene métodos para añadir, eliminar y listar trabajadores, haciendo uso de instanceof para diferenciar entre pilotos y mecánicos.
 
-M8_Exercici_6_Carlos_Merina.java: Clase principal con el método main. Contiene la lógica del menú, la interacción con el usuario y la gestión de las colecciones de escuderías. Aquí se inicializan algunos datos de ejemplo.
+M8_Exercici_6_Carlos_Merina.java:<br>
+Clase principal con el método main. Contiene la lógica del menú, la interacción con el usuario y la gestión de las colecciones de escuderías. Aquí se inicializan algunos datos de ejemplo.
 
 🧠 ¿Qué Aprendí o Reforcé?
 
