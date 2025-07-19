@@ -1,5 +1,5 @@
 # EscuderiasF1_CRUD
-🏎️ Gestión de Escuderías de Fórmula 1 en Java 🏎️
+🏎️ Gestión de Escuderías de Fórmula 1 en Java 🏎️<br>
 🏷️Proyecto POO: Sistema de Gestión de Escuderías, Coches y Personal🏷️
 
 Desarrollé una aplicación en Java utilizando los principios de la Programación Orientada a Objetos (POO) para gestionar información de escuderías de Fórmula 1, sus coches y su personal (pilotos y mecánicos). Permite dar de alta, baja y visualizar la información de los empleados, así como la de las escuderías y los monoplazas. Este proyecto se enfoca en el uso de herencia y polimorfismo para una gestión eficiente de los diferentes tipos de trabajadores.
